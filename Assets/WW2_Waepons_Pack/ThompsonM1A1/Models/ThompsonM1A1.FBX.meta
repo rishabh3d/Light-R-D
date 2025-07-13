@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 423b089ed8d0b98458bcada94db4df43
+timeCreated: 1506641943
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ThompsonM1A1_BeltHolder_Front
+    100004: ThompsonM1A1_BeltHolder_Rear
+    100006: ThompsonM1A1_Bolt
+    100008: ThompsonM1A1_Mag
+    100010: ThompsonM1A1_Mag_Full
+    100012: ThompsonM1A1_MagRelease
+    100014: ThompsonM1A1_Switch_Front
+    100016: ThompsonM1A1_Switch_Rear
+    100018: ThompsonM1A1_Trigger
+    400000: //RootNode
+    400002: ThompsonM1A1_BeltHolder_Front
+    400004: ThompsonM1A1_BeltHolder_Rear
+    400006: ThompsonM1A1_Bolt
+    400008: ThompsonM1A1_Mag
+    400010: ThompsonM1A1_Mag_Full
+    400012: ThompsonM1A1_MagRelease
+    400014: ThompsonM1A1_Switch_Front
+    400016: ThompsonM1A1_Switch_Rear
+    400018: ThompsonM1A1_Trigger
+    2300000: //RootNode
+    2300002: ThompsonM1A1_BeltHolder_Front
+    2300004: ThompsonM1A1_BeltHolder_Rear
+    2300006: ThompsonM1A1_Bolt
+    2300008: ThompsonM1A1_Mag
+    2300010: ThompsonM1A1_Mag_Full
+    2300012: ThompsonM1A1_MagRelease
+    2300014: ThompsonM1A1_Switch_Front
+    2300016: ThompsonM1A1_Switch_Rear
+    2300018: ThompsonM1A1_Trigger
+    3300000: //RootNode
+    3300002: ThompsonM1A1_BeltHolder_Front
+    3300004: ThompsonM1A1_BeltHolder_Rear
+    3300006: ThompsonM1A1_Bolt
+    3300008: ThompsonM1A1_Mag
+    3300010: ThompsonM1A1_Mag_Full
+    3300012: ThompsonM1A1_MagRelease
+    3300014: ThompsonM1A1_Switch_Front
+    3300016: ThompsonM1A1_Switch_Rear
+    3300018: ThompsonM1A1_Trigger
+    4300000: ThompsonM1A1
+    4300002: ThompsonM1A1_Mag_Full
+    4300004: ThompsonM1A1_Mag
+    4300006: ThompsonM1A1_Switch_Front
+    4300008: ThompsonM1A1_Switch_Rear
+    4300010: ThompsonM1A1_MagRelease
+    4300012: ThompsonM1A1_Trigger
+    4300014: ThompsonM1A1_Bolt
+    4300016: ThompsonM1A1_BeltHolder_Front
+    4300018: ThompsonM1A1_BeltHolder_Rear
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
