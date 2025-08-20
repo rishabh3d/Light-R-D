@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: c86d51e7d2c2e4f049553487aa39a91b
+labels:
+- Airship
+- Dirigible
+- L2
+- LZ18
+- PBR
+- Steampunk
+- WW1
+- WWi
+- WorldWarOne
+- Zeppelin
+- aircraft
+- blimp
+- classic
+- flying
+- german
+- historic
+- imperial
+- navy
+- rigid
+timeCreated: 1458006969
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ElevatorPivotL1
+    100002: ElevatorPivotL2
+    100004: ElevatorPivotR2
+    100006: ElevatrPivotR1
+    100008: //RootNode
+    100010: LZ_18_Elevator_L_1
+    100012: LZ_18_Elevator_L_2
+    100014: LZ_18_Elevator_R_1
+    100016: LZ_18_Elevator_R_2
+    100018: LZ_18_Glass
+    100020: LZ_18_Main
+    100022: LZ_18_Propellor1
+    100024: LZ_18_Propellor2
+    100026: LZ_18_Propellor3
+    100028: LZ_18_Propellor4
+    100030: LZ_18_Rudder_L_1
+    100032: LZ_18_Rudder_L_2
+    100034: LZ_18_Rudder_L_3
+    100036: LZ_18_Rudder_L_4
+    100038: LZ_18_Rudder_R_1
+    100040: LZ_18_Rudder_R_2
+    100042: LZ_18_Rudder_R_3
+    100044: LZ_18_Rudder_R_4
+    100046: RuddersAndElevators
+    400000: ElevatorPivotL1
+    400002: ElevatorPivotL2
+    400004: ElevatorPivotR2
+    400006: ElevatrPivotR1
+    400008: //RootNode
+    400010: LZ_18_Elevator_L_1
+    400012: LZ_18_Elevator_L_2
+    400014: LZ_18_Elevator_R_1
+    400016: LZ_18_Elevator_R_2
+    400018: LZ_18_Glass
+    400020: LZ_18_Main
+    400022: LZ_18_Propellor1
+    400024: LZ_18_Propellor2
+    400026: LZ_18_Propellor3
+    400028: LZ_18_Propellor4
+    400030: LZ_18_Rudder_L_1
+    400032: LZ_18_Rudder_L_2
+    400034: LZ_18_Rudder_L_3
+    400036: LZ_18_Rudder_L_4
+    400038: LZ_18_Rudder_R_1
+    400040: LZ_18_Rudder_R_2
+    400042: LZ_18_Rudder_R_3
+    400044: LZ_18_Rudder_R_4
+    400046: RuddersAndElevators
+    2300000: LZ_18_Elevator_L_1
+    2300002: LZ_18_Elevator_L_2
+    2300004: LZ_18_Elevator_R_1
+    2300006: LZ_18_Elevator_R_2
+    2300008: LZ_18_Glass
+    2300010: LZ_18_Main
+    2300012: LZ_18_Propellor1
+    2300014: LZ_18_Propellor2
+    2300016: LZ_18_Propellor3
+    2300018: LZ_18_Propellor4
+    2300020: LZ_18_Rudder_L_1
+    2300022: LZ_18_Rudder_L_2
+    2300024: LZ_18_Rudder_L_3
+    2300026: LZ_18_Rudder_L_4
+    2300028: LZ_18_Rudder_R_1
+    2300030: LZ_18_Rudder_R_2
+    2300032: LZ_18_Rudder_R_3
+    2300034: LZ_18_Rudder_R_4
+    3300000: LZ_18_Elevator_L_1
+    3300002: LZ_18_Elevator_L_2
+    3300004: LZ_18_Elevator_R_1
+    3300006: LZ_18_Elevator_R_2
+    3300008: LZ_18_Glass
+    3300010: LZ_18_Main
+    3300012: LZ_18_Propellor1
+    3300014: LZ_18_Propellor2
+    3300016: LZ_18_Propellor3
+    3300018: LZ_18_Propellor4
+    3300020: LZ_18_Rudder_L_1
+    3300022: LZ_18_Rudder_L_2
+    3300024: LZ_18_Rudder_L_3
+    3300026: LZ_18_Rudder_L_4
+    3300028: LZ_18_Rudder_R_1
+    3300030: LZ_18_Rudder_R_2
+    3300032: LZ_18_Rudder_R_3
+    3300034: LZ_18_Rudder_R_4
+    4300000: LZ_18_Propellor3
+    4300002: LZ_18_Propellor2
+    4300004: LZ_18_Propellor4
+    4300006: LZ_18_Propellor1
+    4300008: LZ_18_Glass
+    4300010: LZ_18_Main
+    4300012: LZ_18_Rudder_R_1
+    4300014: LZ_18_Rudder_R_2
+    4300016: LZ_18_Rudder_R_4
+    4300018: LZ_18_Rudder_R_3
+    4300020: LZ_18_Rudder_L_4
+    4300022: LZ_18_Rudder_L_3
+    4300024: LZ_18_Rudder_L_2
+    4300026: LZ_18_Rudder_L_1
+    4300028: LZ_18_Elevator_R_1
+    4300030: LZ_18_Elevator_R_2
+    4300032: LZ_18_Elevator_L_2
+    4300034: LZ_18_Elevator_L_1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
